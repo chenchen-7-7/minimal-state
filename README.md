@@ -3,7 +3,6 @@
 一个专注于每日精力记录的极简小工具。
 
 每天只需为日期选择一种状态：
-
 - 绝望：几乎没有力气
 - 逃避：想先躲开一切
 - 希望：仍愿意向前一点
@@ -18,4 +17,4 @@
 
 ## 在线使用
 
-https://junchen629ch-cloud.github.io/minimal-state/
+https://chenchen-7-7.github.io/minimal-state/
