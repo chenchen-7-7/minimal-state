@@ -18,4 +18,4 @@
 
 ## 在线使用
 
-https://chenchen-7-7.github.io/minimal-state/?v=6
+https://chenchen-7-7.github.io/minimal-state/?v=8
